@@ -13,7 +13,7 @@
 ## 🛠️ Technical Skills
 
 ### 💻 Languages & Core
-[![My Skills](https://skillicons.dev/icons?i=py,c,java,js,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,solidity)](https://skillicons.dev)
 
 ### 📊 Data Science & AI
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda,matlab)](https://skillicons.dev)
