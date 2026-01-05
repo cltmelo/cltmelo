@@ -29,8 +29,9 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cltmelo&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cltmelo&layout=compact&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cltmelo&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cltmelo&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
@@ -51,7 +52,5 @@
     <img src="https://img.shields.io/badge/Lattes-004a80?style=for-the-badge&logo=academicons&logoColor=white" alt="Lattes" />
   </a>
 </div>
-
----
 
 <br />
